@@ -66,8 +66,7 @@ logistic-regression-from-scratch/
 ## 📌 Credits
 
 - Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
-- Author: [Your Name]
-
+- Author: [Fw]
 ---
 
 Feel free to fork or contribute ⭐
